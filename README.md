@@ -1,11 +1,10 @@
 # Jack Atkerson Challenge 19: PWA Budget Tracker
 
 ## Description
-
+An app that is used to track and log expenses and incomes, as well as display the transactions on a graph. This app is also able to be used while offline. 
 
 ## Table of Contents
 - [Demonstration](#demonstration)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Questions](#questions)
@@ -19,10 +18,17 @@ SO THAT my account balance is accurate when I am traveling
 ```
 
 ## Demonstration
+Homepage Screenshot:
+![Homepage screenshot](./images/homepage.png)
 
-## Installation
+A short demonstration of the app's functionality:
+![Budget tracker demo](./images/demo.gif)
+
+Heroku link:
+https://radiant-falls-78607.herokuapp.com/
 
 ## Usage
+This app is an easy to use budgeting tool. In the first textbox, enter the name for the transaction. Next, enter the amount earned or spent. Finally, click either the "+ Add Funds" or "- Subtract Funds" button to complete the transaction.
 
 ## Credits
 Made by Jack Atkerson
