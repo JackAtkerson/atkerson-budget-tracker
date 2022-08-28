@@ -24,6 +24,6 @@ mongoose.connect(MONGODB_URI, {
 // routes
 app.use(require("./routes/api.js"));
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || 3001, () => {
   console.log(`App running on port ${PORT}!`);
 });
